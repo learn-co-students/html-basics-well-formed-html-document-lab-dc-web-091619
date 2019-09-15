@@ -24,7 +24,7 @@ To get started, open `index.html` in your text editor.
 
 ## Add an Appropriate `DOCTYPE` Tag to the Top of an HTML File
 
-The first step is always to add a `DOCTYPE` declaration at the top of the file
+The first step is always to add a `DOCTYPEm` declaration at the top of the file
 indicating to the browser how the HTML should be handled, and, in particular,
 what
 [_mode_](https://developer.mozilla.org/en-US/docs/Web/HTML/Quirks_Mode_and_Standards_Mode)
